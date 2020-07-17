@@ -8,4 +8,4 @@ Introduction to Programming (C++): [https://github.com/MarcosRigal/Ip](https://g
 
 Programming Methodology (C): [https://github.com/MarcosRigal/Mp](https://github.com/MarcosRigal/Mp)
 
-[![Marcos Rivera Gavilán.](https://i.imgur.com/0cMYUpi.png)](https://www.uco.es/aulasoftwarelibre/)
+[![Marcos Rivera Gavilán.](https://www.uco.es/aulasoftwarelibre/consejo-asesor/)
