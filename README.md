@@ -3,7 +3,9 @@ Hi. I’m Marcos.I am a second year student of computer engineering at the [Univ
 In my GitHub you can find all the projects I have done. For now they are as follows:
 
 Python (🐍): [https://github.com/MarcosRigal/Python](https://github.com/MarcosRigal/Python)
+
 Introduction to Programming (C++): [https://github.com/MarcosRigal/Ip](https://github.com/MarcosRigal/Ip)
+
 Programming Methodology (C): [https://github.com/MarcosRigal/Mp](https://github.com/MarcosRigal/Mp)
 
 [![Marcos Rivera Gavilán.](https://i.imgur.com/0cMYUpi.png)](https://www.uco.es/aulasoftwarelibre/)
