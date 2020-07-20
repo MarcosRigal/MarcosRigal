@@ -4,8 +4,10 @@ In my GitHub you can find all the projects I have done. For now they are as foll
 
 Python (🐍): [https://github.com/MarcosRigal/Python](https://github.com/MarcosRigal/Python)
 
-Introduction to Programming (C++): [https://github.com/MarcosRigal/Ip](https://github.com/MarcosRigal/Ip)
+Introduction to Programming (🇨++): [https://github.com/MarcosRigal/Ip](https://github.com/MarcosRigal/Ip)
 
-Programming Methodology (C): [https://github.com/MarcosRigal/Mp](https://github.com/MarcosRigal/Mp)
+Programming Methodology (🇨): [https://github.com/MarcosRigal/Mp](https://github.com/MarcosRigal/Mp)
+
+Random Stuff (💻): [https://github.com/MarcosRigal/MarcosRigal/tree/master/Random%20Stuff](https://github.com/MarcosRigal/MarcosRigal/tree/master/Random%20Stuff)
 
 [![Marcos Rivera Gavilán.](https://i.imgur.com/1WiLRYL.png)](https://www.uco.es/aulasoftwarelibre/consejo-asesor/)
