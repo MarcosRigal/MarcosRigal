@@ -1,0 +1,1 @@
+In this script are the commands I use to install everything I need in Ubuntu.
