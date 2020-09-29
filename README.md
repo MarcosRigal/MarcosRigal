@@ -2,7 +2,7 @@ Hi. I’m Marcos. I am a second year student of computer engineering at the [Uni
 
 In my GitHub you can find all the projects I have done. For now they are as follows:
 
-
+  - Server Status Bot (🤖): [https://github.com/MarcosRigal/Server-Status-Bot](https://github.com/MarcosRigal/Server-Status-Bot)
   - Master en Python Udemy (🐍): [https://github.com/MarcosRigal/Master-en-Python-Udemy](https://github.com/MarcosRigal/Master-en-Python-Udemy)
   - Python (🐍): [https://github.com/MarcosRigal/Python](https://github.com/MarcosRigal/Python)
   - Introduction to Programming (🇨++): [https://github.com/MarcosRigal/Ip](https://github.com/MarcosRigal/Ip)
