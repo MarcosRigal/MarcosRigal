@@ -9,9 +9,7 @@ I'm from Spain, and I'm currently studying Computer Engineering at the [Universi
 
 I've been colaborating as subdelegate for external relations at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since February 2020. There I've been learning and using these technologies:
 
-- Programming languages : 
-<br>
-
+- Programming languages : <br />
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
