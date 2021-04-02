@@ -7,7 +7,7 @@
 
 I'm from Spain, and I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/). My passions in development are automatization and optimization of task. 
 
-I've been colaborating as subdelegate for external relations at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since February 2020. There I've been learning and using these technologies:
+I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since February 2020. There I've been learning and using these technologies:
 
 - Programming languages : <br />
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
