@@ -40,4 +40,4 @@ I've been colaborating as subdelegate for external relations at [@aulasoftwareli
 
 ## 📝 Contact Me:
 
-<img src="https://i.imgur.com/51ZVeGM.png" alt="drawing" width="100%"/>
+<img src="https://i.imgur.com/UxJEGev.png" alt="drawing" width="100%"/>
