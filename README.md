@@ -40,4 +40,4 @@ I've been colaborating as subdelegate for external relations at [@aulasoftwareli
 
 ## 📝 Contact Me:
 
-[![Marcos Rivera Gavilán.](https://imgur.com/51ZVeGM)](https://www.uco.es/aulasoftwarelibre/consejo-asesor/)
+[![Marcos Rivera Gavilán.](https://i.imgur.com/51ZVeGM.png)](https://www.uco.es/aulasoftwarelibre/consejo-asesor/)
