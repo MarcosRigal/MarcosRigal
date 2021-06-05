@@ -5,6 +5,7 @@
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarcosRigal)
 
 
+
 I'm from Spain, and I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/). My passions in development are automatization and optimization of task. 
 
 I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since February 2020. There I've been learning and using these technologies:
