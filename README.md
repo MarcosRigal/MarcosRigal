@@ -17,9 +17,9 @@ I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwareli
 - OS & IDE & Tools : <br />
   [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-  [![MkDocs](https://img.shields.io/badge/Mkdocs-33A5E7?style=for-the-badge&logo=markdown&logoColor=white)]()
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
+  [![MkDocs](https://img.shields.io/badge/Mkdocs-33A5E7?style=for-the-badge&logo=markdown&logoColor=white)]()
 
 <br>
 
