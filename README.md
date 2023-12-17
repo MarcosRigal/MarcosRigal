@@ -29,24 +29,3 @@ I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwareli
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
   [![MkDocs](https://img.shields.io/badge/Mkdocs-33A5E7?style=for-the-badge&logo=markdown&logoColor=white)]()
-
-<br>
-
-## 🚀 My Github Stats:
-
-|![MarcosRigal Github Stats](https://github-readme-stats.vercel.app/api?username=MarcosRigal&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![MarcosRigal Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRigal&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRigal&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)|
-|---|---|
-
-<br>
-
-## 🧑🏻‍💻 Projects I've Worked On:
-
-|🎓 University: |🔝 Personal Projects: |
-|---|---|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosRigal&repo=Hackathon-BioDataUCO&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/Hackathon-BioDataUCO)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosRigal&repo=MongoDB-Benchmark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/MongoDB-Benchmark)|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarcia-UCO&repo=RubikCube_2021&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/cgarcia-UCO/RubikCube_2021)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosRigal&repo=process-scheduler-simulator&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/process-scheduler-simulator)|
-<br>
-
-## 📝 Contact Me:
-
-<img src="https://i.imgur.com/UxJEGev.png" alt="drawing" width="100%"/>
